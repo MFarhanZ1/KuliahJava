@@ -1,0 +1,13 @@
+# Kasus
+
+Ada seorang pembalap motor liar, ia mencapai garis finish yang jaraknya sepanjang 8800 meter hanya dalam waktu 55 detik saja, semua penonton bertanya-tanya, berapa sih kecepatan motor si pembalap?
+
+# Algoritma Deskriptif
+
+1. Deklarasikan sebuah variabel yang bernama jarakLintasan, dimana didalamnya berisi sebuah nilai 8800 meter (sesuai nilai jarak yang yang di tempuh pembalap pada kasus diatas)
+
+2. Deklarasikan lagi sebuah variabel yang kita beri nama waktuTempuh, dimana didalamnya berisi sebuah nilai 55 detik (sesuai dengan waktu yang di tempuh pembalap sampai finish pada kasus diatas)
+
+3. Lakukan operasi matematika sesuai rumus kecepatan, yakni untuk mendapatkan nilai kecepatan, lakukan pembagian antara jarakLintasan dan waktuTempuh, dimana nilai dari hasil tersebut akan kita simpan dalam sebuah variabel yang kita namakan kecepatanPembalap
+
+4. Kita akan mengeluarkan/print nilai dari kecepatanPembalap sebagai output akhir

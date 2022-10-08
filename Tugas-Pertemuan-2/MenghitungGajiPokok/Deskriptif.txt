@@ -1,0 +1,17 @@
+# Kasus
+
+Ada seorang buruh yang kantor nya full masuk seminggu, kantornya pun melakukan sistem gaji mingguan, dimana perhitungan gaji nya di sesuaikan dengan berapa kali ia masuk kantor, gaji pokok nya perhari 25 ribu, kebetulan minggu ini dia absen 3 hari, cari tahu berapa gaji dia minggu ini!
+
+# Algoritma Deskriptif
+
+1. Deklarasikan sebuah variabel yang bernama hariDalamSeminggu, disini kita isikan nilai total hari dalam seminggu, yakni 7
+
+2. Deklarasikan variabel totalAbsen yang memuat total dia absen dalam seminggu, disini ada 3 hari dia absen, maka nilainya sama dengan 3
+
+3. kurangkan hariDalamSeminggu dengan totalAbsen untuk mengetahui berapa hari dia masuk kerja dalam minggu ini, nilai tersebut disimpan dalam sebuah variabel totalMasukKerja
+
+4. Deklarasikan variabel yang memuat gaji pokok harian si pekerja, nilai ini disimpan dalam variabel gajiPokokHarian, dimana disini 25000 nilainya
+
+5. Lalu kita kalikan gajiPokokHarian dengan totalMasukKerja untuk mendapatkan hasilnya, nilai dari operasi matematika ini kita simpan dalam variabel totalGajiPekerjaSeminggu
+
+6. Print atau keluarkan nilai variabel totalGajiPekerjaSeminggu sebagai sebuah output

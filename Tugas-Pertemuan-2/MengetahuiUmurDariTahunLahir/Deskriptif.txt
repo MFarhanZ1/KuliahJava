@@ -1,0 +1,14 @@
+# Kasus
+
+Ada seseorang pemuda yang amnesia, dia lupa umur nya, yang dia ingat dipikirannya hanyalah tahun ia lahir, yakni 2004, bantu pemuda tersebut mengetahui umur nya!
+
+# Algoritma Deskriptif
+
+1. Deklarasikan sebuah variabel yang bernama tahunSekarang, disini kita isi nilainya dengan 2022 sesuai tahun saat ini
+
+2. Deklarasikan sebuah variabel yang bernama tahunLahir, disini kita isi nilai nya 2004, sesuai tahun lahir yang diingat pemuda tersebut
+
+3. Lakukan operasi pengurangan tahunSekarang dengan tahunLahir untuk mengetahui umur si pemuda tersebut, hasil pengurangan itu kita simpan kedalam sebuah variabel umur
+
+4. Keluarkan nilai variabel umur sebagai sebuah output
+

@@ -1,0 +1,14 @@
+# Kasus
+
+Minggu depan akan diadakan ospek, dan diwajibkan membawa nametag, namun satu angkatan malas membuat nametag tersebut sehingga terpaksa memesan di sanak fotocopy seharga 5 ribu, cari tahu total bayarnya!
+
+# Algoritma Deskriptif
+
+1. Tunggu si user menginputkan total mahasiswa baru yang fix memesan, setelah diinput, nilai ini kita masukkan kedalam variabel totalMemesan
+
+2. deklarasikan variabel hargaNametag yang didalamnya berisi nilai harga dari per satuan nametag, dimana harga yang telah ditetapkan yakni 5 ribu
+
+3. kalikan hargaNametag dengan totalMemesan untuk mendapatkan total bayarnya, dan simpan nilai ini kedalam variabel yang bernama totalMembayar
+
+4. keluarkan nilai variabel totalMembayar sebagai sebuah output
+

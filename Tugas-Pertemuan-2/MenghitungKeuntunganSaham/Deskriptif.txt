@@ -1,0 +1,20 @@
+# Kasus
+
+Ada seorang trader yang membeli 500 lembar saham Apple seharga $20 per-lembarnya, namun tak lama kemudian harga saham Apple tersebut terbang ke harga $25 per-lembarnya, disini kita akan mencari keuntungan trader tersebut!
+
+# Algoritma Deskriptif
+
+1. Deklarasikan sebuah variabel yang bernama jumlahLembarPembelianAwal yang akan kita isikan sebuah nilai total jumlah pembelian lembar saham awal si trader tersebut, disini kita isikan 500 lembar
+
+2. Deklarasikan sebuah variabel yang bernama hargaSahamAwal yang akan kita isikan sebuah nilai harga awal saham tersebut, disini kita isikan $20
+
+3. Deklarasikan sebuah variabel yang bernama hargaSahamTerbaru yang akan kita isikan sebuah nilai harga terakhir saham tersebut setelah dibeli, disini kita isikan $25
+
+4. Kalikan jumlahLembarPembelianAwal dengan hargaSahamAwal untuk mendapatkan harga total pembelian awal saham, dimana nilai tersebut akan kita simpan kedalam sebuah variabel yang bernama totalPembelianAwal
+
+5. Kalikan jumlahLembarPembelianAwal dengan hargaSahamTerbaru untuk mengetahui total harga pembelian saham jika kita kalkulasikan dengan harga baru, dimana nilai tersebut akan kita 
+simpan kedalam sebuah variabel yang bernama totalPembelianTerbaru
+
+6. Kurangkan totalPembelianTerbaru dengan totalPembelianAwal untuk mengetahui selisih keuntungan yang di dapatkan trader, nilai tersebut kita simpan dalam variabel keuntunganTrader
+
+7. Tampilkan variabel keuntunganTrader tersebut sebagai sebuah output
